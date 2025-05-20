@@ -12,7 +12,7 @@ team members:
 3. N. Narasimman
 4. S. Ravichandran
 5. S. Lokeshwaran
-1. Project Demonstration:
+ Project Demonstration:
 Overview:
 The project demonstration presents the practical implementation of AI-driven energy efficiency and optimization techniques, showcasing how theoretical strategies translate into real-world benefits.
 Demonstration details:
